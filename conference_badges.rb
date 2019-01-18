@@ -10,5 +10,5 @@ end
 
 def assign_rooms(attendees)
   attendees.collect do |name|
-
+  end
 end
